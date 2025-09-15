@@ -14,9 +14,9 @@
 </ul>
 
 <h2 id="demo">📱 Demo</h2>
-<p>Add screenshots of mobile preview here</p>
-<p><a href="YOUR_DEPLOYED_URL_HERE" target="_blank">Live Preview</a></p>
-<p><a href="YOUR_REPO_URL_HERE" target="_blank">GitHub Repository</a></p>
+<img width="946" height="436" alt="Image" src="https://github.com/user-attachments/assets/372c6a6a-04ee-4361-b1de-462da37a9fe1" />
+<p><a href="https://shantoobs.github.io/Green-Earth/" target="_blank">Live Preview</a></p>
+
 
 <h2 id="features">✨ Features</h2>
 <ul>
@@ -64,15 +64,14 @@
 <h2 id="folder-structure">📂 Folder Structure</h2>
 <pre><code>
 Green-Earth/
-├── assets/
-│   ├── images/              # Tree images, icons, logos
-│   └── screenshots/         # Demo screenshots
-├── css/
-│   └── style.css            # Styles (or Tailwind build file)
-├── js/
-│   └── app.js               # Main JavaScript logic
-├── index.html               # Main entry page
-└── README.md                # Documentation
+├── assets/                 # Folder for images, fonts, or other media
+├── Green-Earth.fig         # Design file, likely from Figma
+├── README.md               # Project documentation in Markdown
+├── index.html              # Main HTML file (entry point)
+├── script.js               # JavaScript logic and interactivity
+├── style.css               # Custom CSS styles
+└── tailwind.config.js      # Tailwind CSS configuration
+
 </code></pre>
 
 <h2 id="contributing">🤝 Contributing</h2>
@@ -85,13 +84,5 @@ Green-Earth/
   <li>Open a Pull Request</li>
 </ol>
 
-<h2 id="questions">❓ Questions to Answer</h2>
-<ul>
-  <li>Difference between <code>var</code>, <code>let</code>, and <code>const</code></li>
-  <li>Difference between <code>map()</code>, <code>forEach()</code>, and <code>filter()</code></li>
-  <li>What are arrow functions in ES6?</li>
-  <li>How does destructuring assignment work in ES6?</li>
-  <li>Explain template literals in ES6 and how they differ from string concatenation</li>
-</ul>
 
 <h3>🎯 Let's Code and Achieve your Dream!</h3>
